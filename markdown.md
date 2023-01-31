@@ -1,6 +1,6 @@
 #H1 Soy un título
-#H2 Yo soy un subtítulo
-#H3 **Yo sou *un* párrafo**
+##H2 Yo soy un subtítulo
+###H3 **Yo soy *un* párrafo**
 #'codigo de php <?php
           echo "El usuario ingresado en el formulario es: ";?>' 
 #1. Primer objeto ordenado
